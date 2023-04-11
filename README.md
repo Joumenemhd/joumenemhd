@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hi there 👋, I'm Joumane 
+![](https://media.licdn.com/dms/image/D4E16AQEfX8BtVGuMnA/profile-displaybackgroundimage-shrink_350_1400/0/1665349774053?e=1686787200&v=beta&t=ggXv89lZ_setgBlx1i_8NaPyXmy-RwjlW7bchISYfX4)
 
-<!--
-**Joumenemhd/joumenemhd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm  an IT consultant with a passion for coding and technology. My qualifications include expertise in HTML, CSS, Java, C++, Python, SAS, JavaScript, and cloud technologies. I'm highly ambitious and always strive for excellence in my work. I'm constantly seeking new challenges and opportunities to further develop my skills and knowledge. Let's collaborate and create innovative solutions together! #ITConsultant #CodingEnthusiast #AmbitiousTechProfessional
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning SAS , Azure devops  
+- 📫 How to reach me: https://www.linkedin.com/in/m-hamdi-joum%C3%A8ne-465614162 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
